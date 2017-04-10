@@ -1,7 +1,7 @@
-# DOTWEBSECTION
+# DOTWEBCSECTION
 ================
 
-DOTWEBSECTION  consists   of   Programming Languages  which runs  up  to   1000  years;
+DOTWEBCSECTION  consists   of   Programming Languages  which runs  up  to   1000  years;
 
 Which  are  invented   by wilmix jemin  j   at  JAS  and  WEBC  P.L.
 
