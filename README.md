@@ -16,5 +16,5 @@ SO DOTWEB  is  considered  as   WIDEST  and   MOST  ADVANCED  Programming  Langu
 
 IS  DOTWEB   a    real   Wilmix jemin  p.L?
 
-NO, it is   Programming Language  focused   only  on  Advanced  Business.
+NO, it is a  Programming Language  focused   only  on  Advanced  Business.
 
